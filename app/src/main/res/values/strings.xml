@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Images grid JSON</string>
+    <string name="image_description">Image</string>
+    <string name="error_response">Something went wrong</string>
+</resources>

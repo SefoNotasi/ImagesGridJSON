@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Сетка изображений JSON</string>
+    <string name="image_description">Изображение</string>
+    <string name="error_response">Что-то пошло не так</string>
+</resources>
