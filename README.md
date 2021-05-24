@@ -16,8 +16,8 @@ http://dev-tasks.alef.im/task-m-001/list.php
 — при свайпе вниз контент должен обновляться
 — при клике на изображение оно должно открыться на весь экран
 ## Решение
-* Retrofit + OkHttp Logging Interceptor + Gson Converter
-* Glide
+* Retrofit + Glide
+* OkHttp Logging Interceptor + Gson Converter
 * SwipeRefreshLayout + GridView + custom adapter
 * Java, min SDK 21
 * Иконка в Adobe Illustrator:
